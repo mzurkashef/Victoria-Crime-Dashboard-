@@ -1,11 +1,11 @@
-## Introduction 
+## Introduction:
 In this dashboard I have explored the recorded criminal offences in the state of Victoria, 
 Australia, from the years 2015 to 2024.  Here I have used the open crime statistics data 
 sourced from the (Crime Statistics Agency Victoria, March, 2025). Additionally, the dataset 
 includes detailed records of the offence divisions and sub-divisions, which covers the 
 locations such as “Local Government Areas” across the state. Lastly, it also provides annual 
 counts and crime rates per 100,000 population. 
-
+----
 Thus my major goal for this dashboard is to offer an interactive platform for the public, 
 policymakers, and researchers in order to understand long-term crime trends, do the 
 evaluation on patterns by offence type and area, and provide the support for evidence-based 
@@ -37,12 +37,13 @@ and searching allow for quick retrieval of specific information. Therefore, this
 is ideal for users seeking granular data for further analysis or reporting purposes, 
 allowing researchers, students, and analysts to export the tables for use in external 
 tools like Excel or R.  
-- #### About Section: Lastly, I have provided the About section in order to offer 
+- #### About Section:
+Lastly, I have provided the About section in order to offer 
 background information on the Victoria Crime Statistics Dashboard. It explains the 
 main purpose of the dashboard as well as references the data source that I have the 
 taken from Crime Statistics Agency Victoria. Lastly, it summarizes the key features, 
 such as interactive trend charts, offence breakdowns, and location analyses.
-
+----
 ### Storyline Derived from Visualization 
 #### 1) Long-Term Crime Trends in Victoria 
 - Steady Increase and Fluctuations: Here the recorded offences show variation across 
@@ -56,6 +57,7 @@ of orders rising.
 Here we can come to a conclusion that changing public and social environment as well as 
 pandemic-related restrictions, had significantly influenced and impacted the crime patterns 
 over the years which created a shifting landscape in Victoria's public safety. 
+----
 #### 2) Crime Type Insights – Focus on Theft and Assault 
 - Theft Continues to Dominate: We can clearly see that the theft-related offences 
 remain consistently high, especially in the metropolitan areas which includes motor 
@@ -68,6 +70,7 @@ community and domestic violence areas.
 In spite of all the fluctuations, the crimes against the person such as assault had remained the 
 key area of concern for the law enforcement and policymakers, on the other hand the property 
 crimes like theft dominate the offence volume overall. 
+----
 ### 3) LGA-Specific Crime Patterns – Spotlight on Melbourne and Geelong 
 - Melbourne CBD Area: As per the visualization the CBD continues to report high 
 numbers across multiple offence types which reflects its dense population and active 
@@ -80,7 +83,7 @@ Thus I can conclude that the crime is unevenly distributed across Victoria. Whil
 Melbourne dominates in raw offence numbers, regional areas show higher offence rates in 
 some categories, thus, pointing to the need for tailored policing and community strategies.
 ----
-### Conclusion 
+## Conclusion: 
 Thus, the Victoria Crime Statistics Dashboard offers a clear, interactive overview for the 
 crime trends across the state ranging from 2015 to 2024. Thus by breaking down offences 
 based on type and location, it allows users that ranges from policymakers to the general 
@@ -91,7 +94,9 @@ valuable resource for promoting transparency, supporting public safety efforts, 
 encouraging data-driven approaches to crime prevention and policy planning.
 ----
 ### Steps to Run:
+````
 1. Open the app.R file in R Studio
 2. Run the application
 3. Click on Publish drop down button 
 4. Select correct Path and click on Publish button.
+````
