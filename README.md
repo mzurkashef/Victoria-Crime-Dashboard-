@@ -1,5 +1,5 @@
 ## Introduction:
-In this dashboard I have explored the recorded criminal offences in the state of Victoria, 
+- In this dashboard I have explored the recorded criminal offences in the state of Victoria, 
 Australia, from the years 2015 to 2024.  Here I have used the open crime statistics data 
 sourced from the (Crime Statistics Agency Victoria, March, 2025). Additionally, the dataset 
 includes detailed records of the offence divisions and sub-divisions, which covers the 
@@ -38,7 +38,7 @@ is ideal for users seeking granular data for further analysis or reporting purpo
 allowing researchers, students, and analysts to export the tables for use in external 
 tools like Excel or R.  
 - #### About Section:
-Lastly, I have provided the About section in order to offer 
+   Lastly, I have provided the About section in order to offer 
 background information on the Victoria Crime Statistics Dashboard. It explains the 
 main purpose of the dashboard as well as references the data source that I have the 
 taken from Crime Statistics Agency Victoria. Lastly, it summarizes the key features, 
@@ -84,7 +84,7 @@ Melbourne dominates in raw offence numbers, regional areas show higher offence r
 some categories, thus, pointing to the need for tailored policing and community strategies.
 ----
 ## Conclusion: 
-Thus, the Victoria Crime Statistics Dashboard offers a clear, interactive overview for the 
+- Thus, the Victoria Crime Statistics Dashboard offers a clear, interactive overview for the 
 crime trends across the state ranging from 2015 to 2024. Thus by breaking down offences 
 based on type and location, it allows users that ranges from policymakers to the general 
 public, to explore patterns, look for changes, and make informed laws and policies. The 
